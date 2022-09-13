@@ -38,7 +38,7 @@ header{
   }
   
   header.sticky{
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.7);
     padding: 20px 100px;
     z-index: 60000;
   }
@@ -82,8 +82,19 @@ header{
     color:darkorange;
   }
 
+  h2{
+    
+  }
+
  .home{
     height: 100vh;
     background-size: cover;
     background-image: url(../SiteGit/img/cs.jpeg);
+}
+
+.contain{
+    height: 80vh;   
+}
+.contain h2 {
+    
 }
