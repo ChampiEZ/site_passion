@@ -96,5 +96,12 @@ header{
     height: 80vh;   
 }
 .contain h2 {
-    
+    text-align: center;
+    margin: 65px auto;  
+}
+.pres{
+    display: flex;
+    border: red solid 1px;
+    width: 90%;
+    margin: 0 auto;
 }
