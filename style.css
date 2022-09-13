@@ -12,9 +12,7 @@ html {
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background: #CCDBFD;
-}
+
 
 /*header*/
 
@@ -83,3 +81,9 @@ header{
   header ul li a:hover{
     color:darkorange;
   }
+
+ .home{
+    height: 100vh;
+    background-size: cover;
+    background-image: url(../SiteGit/img/cs.jpeg);
+}
