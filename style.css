@@ -97,11 +97,27 @@ header{
 }
 .contain h2 {
     text-align: center;
-    margin: 65px auto;  
+    margin-top: 65px;  
 }
 .pres{
     display: flex;
-    border: red solid 1px;
     width: 90%;
     margin: 0 auto;
+}
+.pres p{
+    height: 35%;
+    margin: auto auto;
+    width: 500px;
+    background-color: #e9ecef;
+    padding: 30px 40px;
+    text-align: right;
+    border-radius: 20px;
+}
+.pres img{
+    border-radius: 20px;
+    height: 80%;
+}
+hr{
+    width: 80%;
+    
 }
